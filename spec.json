@@ -3,12 +3,25 @@
     "name": "testing-recommendation-feature",
     "repo_url": "https://github.com/Ameya1605/testing-recommendation-feature"
   },
-  "structure": "monorepo",
-  "apps": [
-    "api",
-    "web"
+  "features": [
+    {
+      "name": "Real time order picking and confirming",
+      "status": "planned"
+    }
   ],
-  "database": [],
-  "endpoints": [],
-  "features": []
+  "database": [
+    {
+      "table": "Customers",
+      "fields": []
+    },
+    {
+      "table": "Catalogue",
+      "fields": []
+    },
+    {
+      "table": "Pricing",
+      "fields": []
+    }
+  ],
+  "endpoints": []
 }
