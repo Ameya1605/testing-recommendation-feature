@@ -1,0 +1,14 @@
+{
+  "project": {
+    "name": "testing-recommendation-feature",
+    "repo_url": "https://github.com/Ameya1605/testing-recommendation-feature"
+  },
+  "structure": "monorepo",
+  "apps": [
+    "api",
+    "web"
+  ],
+  "database": [],
+  "endpoints": [],
+  "features": []
+}
