@@ -23,5 +23,18 @@
       "fields": []
     }
   ],
-  "endpoints": []
+  "endpoints": [
+    {
+      "method": "POST",
+      "route": "/customers"
+    },
+    {
+      "method": "DELETE",
+      "route": "/pricing/{id}"
+    },
+    {
+      "method": "GET",
+      "route": "/search"
+    }
+  ]
 }
